@@ -1,0 +1,21 @@
+MNEME dual license
+Copyright (c) 2026 Samuel Jackson Grim
+
+This project is dual-licensed:
+
+  1. GNU Affero General Public License v3.0 or later
+     See LICENSE-AGPL-3.0
+
+  2. Apache License, Version 2.0
+     See LICENSE-APACHE-2.0
+
+You may use, copy, modify, and distribute this software under either
+license, at your option.
+
+If you convey a modified version that users interact with over a
+network and you choose AGPL-3.0, section 13 requires that you offer
+those users the corresponding source.
+
+Commercial / proprietary relicensing: contact the copyright holder.
+
+SPDX-License-Identifier: AGPL-3.0-or-later OR Apache-2.0

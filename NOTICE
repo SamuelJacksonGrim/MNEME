@@ -1,0 +1,11 @@
+MNEME
+Copyright 2026 Samuel Jackson Grim
+
+The memories of the past become food for the future.
+
+This product is dual-licensed under AGPL-3.0-or-later OR Apache-2.0.
+See LICENSE, LICENSE-AGPL-3.0, and LICENSE-APACHE-2.0.
+
+Designed as an experimental subsystem that can sit on top of
+RFE-Core / RFE-Core2, E8-EEA, Liminal Anchor Engine, Paradox Lattice,
+and related family cognitive engines without replacing them.

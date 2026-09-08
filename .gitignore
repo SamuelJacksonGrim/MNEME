@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+memory/ledger.jsonl
+memory/report.json
+*.tmp
+.DS_Store
