@@ -5,6 +5,15 @@
 [![Python](https://img.shields.io/badge/python-%3E%3D3.10-3776AB?logo=python&logoColor=white)](https://www.python.org)
 ![status](https://img.shields.io/badge/status-experimental-success)
 
+## License
+
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
 
 **The memories of the past become food for the future.**
 
@@ -85,10 +94,3 @@ Writes generation output under `/tmp/mneme_memory/` by default.
 - **Sentinel** — live threat gauge on collapse_risk.
 - **Hephaestus** — ledger as a component test harness.
 
-## License
-
-Dual-licensed: **AGPL-3.0-only** or a commercial license.
-
-See [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md).
-
-Copyright 2026 Samuel Jackson Grim.
