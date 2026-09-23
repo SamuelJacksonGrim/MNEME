@@ -1,5 +1,11 @@
 # MNEME
 
+[![License: AGPL-3.0-only](https://img.shields.io/badge/license-AGPL--3.0--only-blue)](LICENSE)
+[![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
+[![Python](https://img.shields.io/badge/python-%3E%3D3.10-3776AB?logo=python&logoColor=white)](https://www.python.org)
+![status](https://img.shields.io/badge/status-experimental-success)
+
+
 **The memories of the past become food for the future.**
 
 Self-reinforcing Chain-of-Thought training loop. Success and failure are
@@ -81,8 +87,8 @@ Writes generation output under `/tmp/mneme_memory/` by default.
 
 ## License
 
-Dual license: **AGPL-3.0-or-later OR Apache-2.0**.
+Dual-licensed: **AGPL-3.0-only** or a commercial license.
 
-See `LICENSE`, `LICENSE-AGPL-3.0`, and `LICENSE-APACHE-2.0`.
+See [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md).
 
 Copyright 2026 Samuel Jackson Grim.
